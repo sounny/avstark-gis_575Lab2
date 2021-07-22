@@ -1,0 +1,11 @@
+/* Sylesheet for Data Viz Lab created by Alissa Stark July 2021*/
+.us {
+    fill: #FFF;
+    stroke: #CCC;
+    stroke-width: 2px;
+}
+.gratLines {
+    fill: none;
+    stroke: #999;
+    stroke-width: 1 px;
+}
